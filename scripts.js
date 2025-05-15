@@ -1,7 +1,7 @@
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 const main = (
-  <main id="main" className="container py-3 m-4">
+  <main id="main" className="container py-4 m-4 text-black">
     <div className="row">
       <div className="col-4 border-end border-2 border-dark p-3 text">
         <h1 id="name"  className="fw-bolder text">Intisar Alosaimi</h1>
